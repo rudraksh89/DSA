@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudraksh89/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rudraksh89/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudraksh89/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudraksh89/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudraksh89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rudraksh89/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
