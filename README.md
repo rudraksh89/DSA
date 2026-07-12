@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudraksh89/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rudraksh89/DSA/tree/master/0056-merge-intervals) |
+| [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/rudraksh89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudraksh89/DSA/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -106,14 +108,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
