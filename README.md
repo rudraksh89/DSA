@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudraksh89/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/rudraksh89/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
