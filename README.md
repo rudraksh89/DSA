@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rudraksh89/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraksh89/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
