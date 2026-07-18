@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rudraksh89/DSA/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/rudraksh89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rudraksh89/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/rudraksh89/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraksh89/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rudraksh89/DSA/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -159,9 +163,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rudraksh89/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rudraksh89/DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
