@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudraksh89/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rudraksh89/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/rudraksh89/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rudraksh89/DSA/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/rudraksh89/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rudraksh89/DSA/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/rudraksh89/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/rudraksh89/DSA/tree/master/0198-house-robber) |
