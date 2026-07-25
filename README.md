@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rudraksh89/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rudraksh89/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rudraksh89/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rudraksh89/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rudraksh89/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rudraksh89/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rudraksh89/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rudraksh89/DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/rudraksh89/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
