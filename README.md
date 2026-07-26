@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rudraksh89/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rudraksh89/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
 | ------- |
