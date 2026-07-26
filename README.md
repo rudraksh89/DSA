@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rudraksh89/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudraksh89/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rudraksh89/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
 |  |
 | ------- |
