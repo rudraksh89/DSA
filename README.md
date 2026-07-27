@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rudraksh89/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rudraksh89/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudraksh89/DSA/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rudraksh89/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
