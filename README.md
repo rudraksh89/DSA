@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rudraksh89/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/rudraksh89/DSA/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudraksh89/DSA/tree/master/0198-house-robber) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/rudraksh89/DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
