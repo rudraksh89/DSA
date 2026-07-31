@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rudraksh89/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraksh89/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudraksh89/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
