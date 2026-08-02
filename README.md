@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/rudraksh89/DSA/tree/master/0877-stone-game) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudraksh89/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rudraksh89/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudraksh89/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rudraksh89/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudraksh89/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudraksh89/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
