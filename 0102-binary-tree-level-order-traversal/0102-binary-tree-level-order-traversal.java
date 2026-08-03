@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+
     class Pair{
         TreeNode node;
         int level;
@@ -26,18 +27,20 @@ class Solution {
         List<List<Integer>> l = new ArrayList<>();
         if(root == null) return l;
         Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(root,0));
-        while(q.size() > 0){
+        q.offer(new Pair(root,0));
+        
+        while(!q.isEmpty()){
             Pair front = q.remove();
-            if(front.level == l.size()){
+            if(l.size() == front.level){
                 l.add(new ArrayList<>());
             }
             l.get(front.level).add(front.node.val);
+
             if(front.node.left != null){
-                q.add(new Pair(front.node.left,front.level+1));
+                q.offer(new Pair(front.node.left,front.level+1));
             }
             if(front.node.right != null){
-                q.add(new Pair(front.node.right,front.level+1));
+                q.offer(new Pair(front.node.right,front.level+1));
             }
         }
         return l;
