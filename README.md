@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rudraksh89/DSA/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 ## Array
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rudraksh89/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudraksh89/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -228,10 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/rudraksh89/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/rudraksh89/DSA/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/rudraksh89/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rudraksh89/DSA/tree/master/1046-last-stone-weight) |
