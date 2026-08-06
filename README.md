@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudraksh89/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rudraksh89/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rudraksh89/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
