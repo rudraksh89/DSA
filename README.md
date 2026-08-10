@@ -365,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rudraksh89/DSA/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
