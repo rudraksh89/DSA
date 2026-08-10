@@ -1,32 +1,21 @@
 class Solution {
 
-    int lowerbound(List<Integer> l, int target){
-        int low = 0;
-        int high = l.size() - 1;
-        int ans = l.size();
-        while(low <= high){
-            int mid = low + (high-low)/2;
-            if(l.get(mid) == target) return mid;
-            else if(l.get(mid) < target){
-                low = mid + 1;
-            }else{
-                ans = mid;
-                high = mid - 1;
-            }
+    int fn(int idx, int prev, int[]nums, int[][]dp){
+        if(idx == nums.length) return 0;
+        if(dp[idx][prev+1] != -1) return dp[idx][prev+1];
+        int take = 0;
+        if(prev == -1 || nums[idx] > nums[prev]){
+            take = 1 + fn(idx+1,idx,nums,dp);
         }
-        return ans;
+        int nontake = fn(idx+1,prev,nums,dp);
+        return dp[idx][prev+1] = Math.max(take,nontake);
     }
-
     public int lengthOfLIS(int[] nums) {
-        ArrayList<Integer> l = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            if(l.size() == 0 || l.get(l.size()-1) < nums[i]){
-                l.add(nums[i]);
-            }else{
-                int idx = lowerbound(l,nums[i]);
-                l.set(idx,nums[i]);
-            }
+        int n = nums.length;
+        int[][] dp = new int[n][n+1];
+        for(int i=0;i<n;i++){
+            Arrays.fill(dp[i],-1);
         }
-        return l.size();
+        return fn(0,-1,nums,dp);
     }
 }
