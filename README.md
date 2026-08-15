@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/rudraksh89/DSA/tree/master/1046-last-stone-weight) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/rudraksh89/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/rudraksh89/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rudraksh89/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/rudraksh89/DSA/tree/master/0846-hand-of-straights) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/rudraksh89/DSA/tree/master/0846-hand-of-straights) |
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
