@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rudraksh89/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rudraksh89/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1531-string-compression-ii](https://github.com/rudraksh89/DSA/tree/master/1531-string-compression-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-knight-dialer](https://github.com/rudraksh89/DSA/tree/master/0935-knight-dialer) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rudraksh89/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/rudraksh89/DSA/tree/master/1510-stone-game-iv) |
+| [1531-string-compression-ii](https://github.com/rudraksh89/DSA/tree/master/1531-string-compression-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
