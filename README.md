@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/rudraksh89/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/rudraksh89/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/rudraksh89/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rudraksh89/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1854-maximum-population-year](https://github.com/rudraksh89/DSA/tree/master/1854-maximum-population-year) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rudraksh89/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rudraksh89/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/rudraksh89/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rudraksh89/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
