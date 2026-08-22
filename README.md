@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/rudraksh89/DSA/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudraksh89/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudraksh89/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rudraksh89/DSA/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudraksh89/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/rudraksh89/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rudraksh89/DSA/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudraksh89/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/rudraksh89/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/rudraksh89/DSA/tree/master/0901-online-stock-span) |
