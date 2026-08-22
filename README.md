@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rudraksh89/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/rudraksh89/DSA/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/rudraksh89/DSA/tree/master/0846-hand-of-straights) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/rudraksh89/DSA/tree/master/0901-online-stock-span) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
 ## Binary Indexed Tree
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
 ## Counting
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
