@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudraksh89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/rudraksh89/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1854-maximum-population-year](https://github.com/rudraksh89/DSA/tree/master/1854-maximum-population-year) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rudraksh89/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
