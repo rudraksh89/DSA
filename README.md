@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudraksh89/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/rudraksh89/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rudraksh89/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudraksh89/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rudraksh89/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rudraksh89/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rudraksh89/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rudraksh89/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rudraksh89/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
