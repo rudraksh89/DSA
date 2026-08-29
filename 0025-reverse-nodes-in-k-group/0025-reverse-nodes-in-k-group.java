@@ -10,15 +10,15 @@
  */
 class Solution {
 
-    ListNode findkthnode(ListNode head, int k){
+    ListNode find(ListNode temp , int k){
         k--;
-        while(head != null && k > 0){
-            head = head.next;
+        while(temp != null && k > 0){
             k--;
+            temp = temp.next;
         }
-        return head;
-    }
+        return temp;
 
+    }
 
     ListNode reverse(ListNode head){
         ListNode curr = head;
@@ -36,9 +36,9 @@ class Solution {
         ListNode temp = head;
         ListNode prev = null;
         while(temp != null){
-           ListNode kthnode = findkthnode(temp,k);
+            ListNode kthnode = find(temp,k);
             if(kthnode == null){
-                if(prev!=null){
+                if(prev != null){
                     prev.next = temp;
                 }
                 break;
@@ -48,9 +48,7 @@ class Solution {
             reverse(temp);
             if(temp == head){
                 head = kthnode;
-            }else{
-                prev.next = kthnode;
-            }
+            }else prev.next = kthnode;
             prev = temp;
             temp = after;
         }
