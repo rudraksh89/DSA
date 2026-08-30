@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/rudraksh89/DSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraksh89/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rudraksh89/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraksh89/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
