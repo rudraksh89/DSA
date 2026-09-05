@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraksh89/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rudraksh89/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rudraksh89/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rudraksh89/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rudraksh89/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraksh89/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Indexed Tree
 |  |
 | ------- |
