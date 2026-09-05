@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rudraksh89/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rudraksh89/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rudraksh89/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rudraksh89/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rudraksh89/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
