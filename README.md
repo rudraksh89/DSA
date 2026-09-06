@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rudraksh89/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1710-maximum-units-on-a-truck](https://github.com/rudraksh89/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Indexed Tree
 |  |
