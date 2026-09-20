@@ -25,24 +25,19 @@ class Solution {
     }
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> l = new ArrayList<>();
-        if(root == null) return l;
         Queue<Pair> q = new LinkedList<>();
+        if(root == null) return l;
         q.offer(new Pair(root,0));
-        
         while(!q.isEmpty()){
-            Pair front = q.remove();
-            if(l.size() == front.level){
+            Pair top = q.remove();
+            if(l.size() == top.level){
                 l.add(new ArrayList<>());
             }
-            l.get(front.level).add(front.node.val);
-
-            if(front.node.left != null){
-                q.offer(new Pair(front.node.left,front.level+1));
-            }
-            if(front.node.right != null){
-                q.offer(new Pair(front.node.right,front.level+1));
-            }
+            l.get(top.level).add(top.node.val);
+            if(top.node.left != null) q.offer(new Pair(top.node.left,top.level+1));
+            if(top.node.right != null) q.offer(new Pair(top.node.right,top.level+1));
         }
         return l;
+
     }
 }
