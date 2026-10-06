@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudraksh89/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rudraksh89/DSA/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rudraksh89/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/rudraksh89/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rudraksh89/DSA/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rudraksh89/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rudraksh89/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/rudraksh89/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rudraksh89/DSA/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/rudraksh89/DSA/tree/master/0140-word-break-ii) |
 | [0316-remove-duplicate-letters](https://github.com/rudraksh89/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/rudraksh89/DSA/tree/master/0344-reverse-string) |
