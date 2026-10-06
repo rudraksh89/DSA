@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rudraksh89/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/rudraksh89/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudraksh89/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudraksh89/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rudraksh89/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rudraksh89/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0980-unique-paths-iii](https://github.com/rudraksh89/DSA/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudraksh89/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rudraksh89/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
@@ -543,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rudraksh89/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rudraksh89/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
