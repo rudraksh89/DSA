@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/rudraksh89/DSA/tree/master/1531-string-compression-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rudraksh89/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/rudraksh89/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudraksh89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/rudraksh89/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/rudraksh89/DSA/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/rudraksh89/DSA/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rudraksh89/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3871-count-commas-in-range-ii](https://github.com/rudraksh89/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rudraksh89/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
