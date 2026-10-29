@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/rudraksh89/DSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rudraksh89/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/rudraksh89/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1531-string-compression-ii](https://github.com/rudraksh89/DSA/tree/master/1531-string-compression-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rudraksh89/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudraksh89/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
 | [2409-count-days-spent-together](https://github.com/rudraksh89/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudraksh89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/rudraksh89/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1854-maximum-population-year](https://github.com/rudraksh89/DSA/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/rudraksh89/DSA/tree/master/1943-describe-the-painting) |
+| [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rudraksh89/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rudraksh89/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rudraksh89/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/rudraksh89/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/rudraksh89/DSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Binary Indexed Tree
 |  |
