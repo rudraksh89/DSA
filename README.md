@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/rudraksh89/DSA/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rudraksh89/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rudraksh89/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rudraksh89/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rudraksh89/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rudraksh89/DSA/tree/master/0486-predict-the-winner) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rudraksh89/DSA/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rudraksh89/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/rudraksh89/DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rudraksh89/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rudraksh89/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraksh89/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rudraksh89/DSA/tree/master/0877-stone-game) |
