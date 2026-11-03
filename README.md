@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/rudraksh89/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rudraksh89/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/rudraksh89/DSA/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rudraksh89/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rudraksh89/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/rudraksh89/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/rudraksh89/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/rudraksh89/DSA/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/rudraksh89/DSA/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rudraksh89/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rudraksh89/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/rudraksh89/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rudraksh89/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/rudraksh89/DSA/tree/master/3886-sum-of-sortable-integers) |
