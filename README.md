@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rudraksh89/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rudraksh89/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/rudraksh89/DSA/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rudraksh89/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/rudraksh89/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rudraksh89/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/rudraksh89/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/rudraksh89/DSA/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/rudraksh89/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rudraksh89/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudraksh89/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rudraksh89/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rudraksh89/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rudraksh89/DSA/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/rudraksh89/DSA/tree/master/0732-my-calendar-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rudraksh89/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rudraksh89/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/rudraksh89/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
