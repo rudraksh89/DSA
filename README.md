@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/rudraksh89/DSA/tree/master/2055-plates-between-candles) |
 | [2409-count-days-spent-together](https://github.com/rudraksh89/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rudraksh89/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rudraksh89/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudraksh89/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/rudraksh89/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rudraksh89/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
